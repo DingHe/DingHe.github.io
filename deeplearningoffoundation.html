@@ -11850,6 +11850,7 @@ y= [[0]
 
 <span class="c1">#定义sigmoid函数和导数</span>
 <span class="k">def</span> <span class="nf">nonlin</span><span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="n">deriv</span><span class="o">=</span><span class="kc">False</span><span class="p">):</span>
+    <span class="c1">#可以这么求导是因为后面经过激活函数求值以后，实际上就是本身函数的值</span>
     <span class="k">if</span><span class="p">(</span><span class="n">deriv</span><span class="o">==</span><span class="kc">True</span><span class="p">):</span>
         <span class="k">return</span> <span class="n">x</span><span class="o">*</span><span class="p">(</span><span class="mi">1</span><span class="o">-</span><span class="n">x</span><span class="p">)</span>
 
@@ -12391,6 +12392,7 @@ k2: [[  7.43732932e-04]
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="&#32467;&#35770;">&#32467;&#35770;<a class="anchor-link" href="#&#32467;&#35770;">&#182;</a></h3><p>经过600000轮的反向传播训练，最终的预测值K2和要预测的值y基本一致了，这就是神经网络的基础</p>
+<h3 id="&#21442;&#32771;&#25991;&#29486;">&#21442;&#32771;&#25991;&#29486;<a class="anchor-link" href="#&#21442;&#32771;&#25991;&#29486;">&#182;</a></h3><p><a href="https://github.com/llSourcell/how_to_do_math_for_deep_learning">how_to_do_math_for_deep_learning</a></p>
 
 </div>
 </div>
