@@ -13,3 +13,5 @@
 - [使用TFlearn进行情感分析](https://dinghe.github.io/TFLearn_Sentiment_Analysis_Solution.html)
 
 - [第二个项目：图像分类](https://dinghe.github.io/dlnd_image_classification.html)
+
+- [第三个项目：生成电视脚本](https://dinghe.github.io/dlnd_tv_script_generation.html)
