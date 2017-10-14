@@ -19,3 +19,5 @@
 - [第四个项目：英语到法语的翻译](https://dinghe.github.io/dlnd_language_translation.html)
 
 - [第五个项目：人脸生成](https://dinghe.github.io/dlnd_face_generation.html)
+
+- [使用RNN预测苹果公司的股价](https://dinghe.github.io/RNN_project.html)
