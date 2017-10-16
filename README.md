@@ -21,3 +21,5 @@
 - [第五个项目：人脸生成](https://dinghe.github.io/dlnd_face_generation.html)
 
 - [使用RNN预测苹果公司的股价](https://dinghe.github.io/RNN_project.html)
+
+- [情感分析多种模型的比较](https://dinghe.github.io/sentiment_analysis.html)
