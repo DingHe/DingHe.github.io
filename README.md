@@ -25,3 +25,5 @@
 - [情感分析多种模型的比较](https://dinghe.github.io/sentiment_analysis.html)
 
 - [对TENSROFLOW官网例子CIFAR10的代码注释](https://dinghe.github.io/cifar10.html)
+
+- [人脸关键点识别项目](https://dinghe.github.io/CV_project.html)
