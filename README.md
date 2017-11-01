@@ -27,3 +27,5 @@
 - [对TENSROFLOW官网例子CIFAR10的代码注释](https://dinghe.github.io/cifar10.html)
 
 - [人脸关键点识别项目](https://dinghe.github.io/CV_project.html)
+
+- [通过HOG+SVM+SLIDING WIN实时识别车辆](https://dinghe.github.io/CarND-Vehicle-Detection.html)
