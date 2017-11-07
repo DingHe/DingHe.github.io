@@ -30,4 +30,4 @@
 
 - [通过HOG+SVM+SLIDING WIN实时识别车辆](https://dinghe.github.io/CarND-Vehicle-Detection.html)
 
-- [Udacity简单的车道检测](https://dinghe.github.io/P1.html)
+- [Udacity自动驾驶P1-简单的车道检测](https://dinghe.github.io/P1.html)
