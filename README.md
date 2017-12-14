@@ -33,3 +33,5 @@
 - [Udacity自动驾驶P1-简单的车道检测](https://dinghe.github.io/P1.html)
 
 - [Udacity自动驾驶P3-驾驶行为克隆](https://dinghe.github.io/self-dring-p3.html)
+
+- [动态RNN的小实验](https://dinghe.github.io/dynamic_rnn_test.html)
