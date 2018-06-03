@@ -3,6 +3,10 @@
 # 编程工具
 [LaTex基础](https://dinghe.github.io/latexinjupyter.html)
 
+# 人工智能相关的培训项目
+- [词性标注（Part of speech tagging）的算法模型比较](https://dinghe.github.io/HMM.html)
+
+
 # 深度学习
 - [深度学习的数据基础](https://dinghe.github.io/deeplearningoffoundation.html)
 
@@ -35,3 +39,4 @@
 - [Udacity自动驾驶P3-驾驶行为克隆](https://dinghe.github.io/self-dring-p3.html)
 
 - [动态RNN的小实验](https://dinghe.github.io/dynamic_rnn_test.html)
+
