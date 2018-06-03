@@ -3,7 +3,7 @@
 # 编程工具
 [LaTex基础](https://dinghe.github.io/latexinjupyter.html)
 
-# 人工智能相关的培训项目
+# 自然语言处理
 - [词性标注（Part of speech tagging）的算法模型比较](https://dinghe.github.io/HMM.html)
 
 
