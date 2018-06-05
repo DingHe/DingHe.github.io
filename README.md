@@ -6,6 +6,8 @@
 # 自然语言处理
 - [词性标注（Part of speech tagging）的算法模型比较](https://dinghe.github.io/HMM.html)
 
+- [隐马尔可夫三个基本问题求解的算法实现](https://dinghe.github.io/HMM_implement.html)
+
 
 # 深度学习
 - [深度学习的数据基础](https://dinghe.github.io/deeplearningoffoundation.html)
