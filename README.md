@@ -3,6 +3,8 @@
 # 编程工具
 [LaTex基础](https://dinghe.github.io/latexinjupyter.html)
 
+[数组转置及time major和batch_size major的区别](https://dinghe.github.io/matrix_transpose.html)
+
 # 自然语言处理
 - [词性标注（Part of speech tagging）的算法模型比较](https://dinghe.github.io/HMM.html)
 
