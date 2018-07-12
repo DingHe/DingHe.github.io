@@ -1,4 +1,7 @@
-## 欢迎来到肖定和的技术博客
+# 欢迎来到肖定和的技术博客
+联系方式
+qq:472972852
+e-mail:positivecat2011@gmail.com
 
 # 编程工具
 [LaTex基础](https://dinghe.github.io/latexinjupyter.html)
