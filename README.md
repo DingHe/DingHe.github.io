@@ -1,4 +1,4 @@
-# 欢迎来到肖定和的技术博客
+### 欢迎来到肖定和的技术博客
 
 联系方式
 
@@ -12,6 +12,8 @@ e-mail:positivecat2011@gmail.com
 [数组转置及time major和batch_size major的区别](https://dinghe.github.io/matrix_transpose.html)
 
 [对指定区域进行Geohash编码成栅格形式](https://dinghe.github.io/geohash.html)
+
+[通过tensorflow serving在生产系统部署模型](https://dinghe.github.io/tensorflow_serving.html)
 
 
 # 自然语言处理
