@@ -19,6 +19,8 @@ e-mail:positivecat2011@gmail.com
 
 - [隐马尔可夫三个基本问题求解的算法实现](https://dinghe.github.io/HMM_implement.html)
 
+- [动态RNN的小实验](https://dinghe.github.io/dynamic_rnn_test.html)
+
 - [对tensorflow官网神经翻译机模型源码注释](https://dinghe.github.io/seqtoseq.html)
 
 
@@ -53,5 +55,4 @@ e-mail:positivecat2011@gmail.com
 
 - [Udacity自动驾驶P3-驾驶行为克隆](https://dinghe.github.io/self-dring-p3.html)
 
-- [动态RNN的小实验](https://dinghe.github.io/dynamic_rnn_test.html)
 
