@@ -13,6 +13,8 @@
 
 - [隐马尔可夫三个基本问题求解的算法实现](https://dinghe.github.io/HMM_implement.html)
 
+- [对tensorflow官网神经翻译机模型源码注释](https://dinghe.github.io/seqtoseq.html)
+
 
 # 深度学习
 - [深度学习的数据基础](https://dinghe.github.io/deeplearningoffoundation.html)
