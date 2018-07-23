@@ -25,6 +25,8 @@ e-mail:positivecat2011@gmail.com
 
 - [对tensorflow官网神经翻译机模型源码注释](https://dinghe.github.io/seqtoseq.html)
 
+- [基于检索的对话系统](https://dinghe.github.io/chatbot-retrieval.html)
+
 
 # 深度学习
 - [深度学习的数据基础](https://dinghe.github.io/deeplearningoffoundation.html)
