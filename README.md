@@ -45,8 +45,6 @@ e-mail:positivecat2011@gmail.com
 
 - [第五个项目：人脸生成](https://dinghe.github.io/dlnd_face_generation.html)
 
-- [使用RNN预测苹果公司的股价](https://dinghe.github.io/RNN_project.html)
-
 - [情感分析多种模型的比较](https://dinghe.github.io/sentiment_analysis.html)
 
 - [对TENSROFLOW官网例子CIFAR10的代码注释](https://dinghe.github.io/cifar10.html)
@@ -62,6 +60,8 @@ e-mail:positivecat2011@gmail.com
 
 # 量化交易
 - [P1：动量交易](https://dinghe.github.io/Trading_with_Momentum.html)
+
+- [使用RNN预测苹果公司的股价](https://dinghe.github.io/RNN_project.html)
 
 
 
