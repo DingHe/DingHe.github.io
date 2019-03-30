@@ -60,3 +60,9 @@ e-mail:positivecat2011@gmail.com
 - [Udacity自动驾驶P3-驾驶行为克隆](https://dinghe.github.io/self-dring-p3.html)
 
 
+# 量化交易
+- [P1：动量交易](https://dinghe.github.io/Trading_with_Momentum.html)
+
+
+
+
