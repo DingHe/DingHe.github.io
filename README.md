@@ -63,6 +63,7 @@ e-mail:positivecat2011@gmail.com
 
 - [使用RNN预测苹果公司的股价](https://dinghe.github.io/RNN_project.html)
 
+- [正态分布的假设检验](https://dinghe.github.io/Testing_for_Normality.html)
 
 
 
