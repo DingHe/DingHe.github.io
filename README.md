@@ -61,6 +61,8 @@ e-mail:positivecat2011@gmail.com
 # 量化交易
 - [P1：动量交易](https://dinghe.github.io/Trading_with_Momentum.html)
 
+- [P2：突破策略](https://dinghe.github.io/BreakoutStrategy.html)
+
 - [使用RNN预测苹果公司的股价](https://dinghe.github.io/RNN_project.html)
 
 - [正态分布的假设检验](https://dinghe.github.io/Testing_for_Normality.html)
