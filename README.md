@@ -63,6 +63,8 @@ e-mail:positivecat2011@gmail.com
 
 - [P2：突破策略](https://dinghe.github.io/BreakoutStrategy.html)
 
+- [P3：智能beta和组合优化](https://dinghe.github.io/SmartBetaPortfolio.html)
+
 - [使用RNN预测苹果公司的股价](https://dinghe.github.io/RNN_project.html)
 
 - [正态分布的假设检验](https://dinghe.github.io/Testing_for_Normality.html)
